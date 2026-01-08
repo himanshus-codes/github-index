@@ -26,6 +26,13 @@ projects, demos, experiments, and learning.
 #Server Side Rendering Using EJS, Node & Express
 
 
+## 🗂️ GitHub Work Index
+
+| # | Repository | Category | Description |
+|---|-----------|----------|-------------|
+| 1 | [Demo_GetPost_Reqs](https://github.com/<your-username>/Demo_GetPost_Reqs) | Backend | GET & POST request demo |
+| 2 | [Portfolio](https://github.com/<your-username>/portfolio) | Showcase | Highlighted projects |
+| 3 | [GitHub-Index](https://github.com/<your-username>/github-index) | Index | All GitHub work |
 
 
 
